@@ -6,13 +6,12 @@ Make sure you have JAVA 8 or above installed to run this test
 
 
 Libraries support
-Test Runner support
-gson
-hsqldb
-json-simple
+gson,
+hsqldb,
+json-simple,
 maven-surefire-plugin
 
-More Information
+# More Information
 1. Run TestEntry.java as RunAs->Java Application
 
 Following Output is shown in Console:
@@ -44,7 +43,7 @@ Sep 11, 2021 9:23:20 PM org.hsqldb.persist.Logger logInfoEvent
 INFO: Database closed
 
 
-Implementation Details:
+# Implementation Details:
 1. TestEntry.java starts the server dynamically, which internally creates eventDetails_tbl table
 2. Takes the path to logfile.txt as an input argument
 3. Creates and Entry Object for each json line by line using Gson (Gson ensures to handle large files (gigabytes))
