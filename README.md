@@ -1,4 +1,4 @@
-# creditSuisse
+# creditSuisse PFA HSQLDB Screenshot.doc
 This is an sample project to demonstrate how to handle event details from a file named logfile.txt using Java
 
 # Important
