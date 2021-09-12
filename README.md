@@ -1,4 +1,4 @@
-# creditSuisse PFA "Unit Test Documentation.doc"
+# creditSuisse PFA "Unit Test Documentation.doc" at https://github.com/resapu021/creditSuisse/blob/main/Unit%20Test%20Documentation.docx
 This is an sample project to demonstrate how to handle event details from a file named logfile.txt using Java
 
 # Important
