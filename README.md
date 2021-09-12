@@ -1,4 +1,4 @@
-# creditSuisse PFA HSQLDB Screenshot.doc
+# creditSuisse PFA "Unit Test Documentation.doc"
 This is an sample project to demonstrate how to handle event details from a file named logfile.txt using Java
 
 # Important
